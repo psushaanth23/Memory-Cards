@@ -1,5 +1,5 @@
 ## Memory-Cards
-An android game which test you memory.
+An android game which tests you memory.
 
 ### Rules
  - There are 20 cards in a 4x5 grid.
