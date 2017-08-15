@@ -9,3 +9,6 @@ An android game which test you memory.
  - The goal is to remove all the cards in minimum number of flips. 
  - Different set of icons are mapped to the cards each time the game is restarted.
 
+### Screenshot
+
+<img src="https://user-images.githubusercontent.com/9436296/29313377-58c0eeba-81d7-11e7-8ff8-a6380ece70c1.png" width="300" height="550" />
